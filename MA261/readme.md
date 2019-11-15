@@ -24,7 +24,7 @@ His guides contain useful analysis of exams from the last few years, and video w
 Note that some of the resources below require a Purdue ID to access.
 In addition to tbe below pages, [Khan Academy](khanacademy.org) and PatrickJMT's resources are likely to be helpful at a conceptual level.
 
-* [Katy Yochman's MA261 Summer 2019 notes](https://purdue0-my.sharepoint.com/:b:/g/personal/dmanoj_purdue_edu/Ed-5Km--ZcNJhiqt9hR7IxMBZJzq6Lk2aoq_c_x8nQ-Tdw?e=pCL5UY) ([source])(http://www.math.purdue.edu/~kyochman/MA261.html)- note that the content taught is the same as Fall 2019
+* [Katy Yochman's MA261 Summer 2019 notes](https://purdue0-my.sharepoint.com/:b:/g/personal/dmanoj_purdue_edu/Ed-5Km--ZcNJhiqt9hR7IxMBZJzq6Lk2aoq_c_x8nQ-Tdw?e=pCL5UY) ([source](http://www.math.purdue.edu/~kyochman/MA261.html))- note that the content taught is the same as Fall 2019
 * [Joseph Chen's MA261 notes and videos](https://drive.google.com/drive/folders/12uNRdz77PZPTPZlGhLtkS9p_tLTN0P-o)
 * Thomas Sinclair's MA261 Fall 2019 notes - [Original](https://purdue0-my.sharepoint.com/:o:/g/personal/tsincla_purdue_edu/EqVEIXFyUmdLjqK3jDtIargBneZUWi3QdKmvwWHf0Q9xrw?e=26074D). The [cached](https://purdue0-my.sharepoint.com/:b:/g/personal/dmanoj_purdue_edu/EYotqsOnv19CrPbz0P4JHd8BP3N9NApg54hfHE4DhY4Ddw?e=5yw8ao) version may also be useful.
 * [Adam Johnson's MA261 video playlist](https://www.youtube.com/watch?v=YEEYpC__Dno&list=PL9tUIeKXhfwiRdSsrtBo9fDBXPFGtMMjA)
