@@ -6,6 +6,7 @@ This section contains the resources that I (and others) have created for MA261.
 
 ## Leaderboard's resources
 
+* **New:** [MA261 quizzes](Exam quizzes.md) - a new way to test yourself!
 * Solutions to many homework problems from Lesson 19 onwards
 * Written solutions to past exam papers (currently for Exam 2) from 2016
 * Solutions to this cohort's (Fall 2019) Exam 1 and 2 questions.
