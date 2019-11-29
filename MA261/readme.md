@@ -20,7 +20,7 @@ His guides contain useful analysis of exams from the last few years, and video w
 * [Exam 1 guide](https://docs.google.com/spreadsheets/d/1K0lB-BjZ6fIXGrHbMaJUzNp3THW8THsXSe0i5Hkr-90/edit?usp=sharing)
 * [Exam 2 guide](https://docs.google.com/spreadsheets/d/1jHjlFyy_XB4RRmuFDVSVhQLYHxHkImhl_qz_QpIZkDI/edit?usp=sharing)
 * [Final exam guide](https://docs.google.com/spreadsheets/d/1IWeBIkCsnOdD7zD8d5uIZ5x5Sp0pGeWpZjinrPP7OtQ/edit#gid=0)
-
+* [His YouTube channel](https://www.youtube.com/channel/UCqM4avrjDiO7ji1Q2nn7vKQ)
 ## Other places
 
 Note that some of the resources below require a Purdue ID to access.
