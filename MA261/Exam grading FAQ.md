@@ -3,7 +3,7 @@ There seems to be quite a bit of confusion on how the core Purdue calculus cours
 This is for Calculus 3 (MA261), but the ideas are the same for many others (like Calc 1/2).
 ## Step 1 - The exams
 The process starts with the exams. In Calculus 3, there are two midterms (each out of 100) and a final (out of 200), for a total mark out of 400. This is the *only* metric used for the initial ranking process.
-The instructors first determine the mark cutoff for each grade (eg: 335/400 for an A). Then, they rank all the people based on *only* their combined exam scores.<br>For Calculus 3, out of the ~2400 students, roughly 20-30% people (around 500 - 700 students) will get an A - some of them with an A<sup>+</sup>, and some with an A<sup>-</sup>.
+The instructors first determine the mark cutoff for each grade (eg: 335/400 for an A). Then, they rank all the people based on *only* their combined exam scores.<br>For Calculus 3, out of the ~2400 students, roughly 20-23% people (around 500 - 550 students) will get an A - some of them with an A<sup>+</sup>, and some with an A<sup>-</sup>.
 ## Step 2 - The recitation
 Now the grade cutoffs have been determined and a 'grade' has been attached to your name *just based on your exams*. Then your recitation instructor will look at their students, and take your exam-only grade, and add it into a 'basket'. 
 
@@ -14,7 +14,7 @@ Now that the recitation 'basket' is done, then your quiz and homework scores are
 ## How does that matter in my final grade?
 It depends. Assuming a normal Gaussian distribution, it's unlikely (assuming that you've been doing your homework and have obtained a reasonable quiz score) that if you're doing well above average, that your grade will be impacted. This is because assuming a homework score of 100, the difference between your classmates' scores will be a few points at most. This goes the same way if you're well below average - doing well in quizzes will be unlikely to save you. 
 
-**However**, if you're around the median, this could impact your grade, as many of you will be bunched around the C to B region. So considering that many of you will get similar total exam scores, the quiz and HW can make or break a +/-. It must be noted however that this can only happen if and only if you get less than 42/50 in the quiz assuming a perfect homework score (as that is the only way someone with a weaker exam score can overtake you). That is, it is safe to assume that if you have lost 8 or fewer marks in the combined HW and quiz score, then your grade will not be adversely affected.
+**However**, if you're around the median, this could impact your grade, as many of you will be bunched around the C to B region. So considering that many of you will get similar total exam scores, the quiz and HW can make or break a +/-. It must be noted however that this can only happen if and only if you get *less* than 42/50 in the quiz assuming a perfect homework score (as that is the only way someone with a weaker exam score can overtake you). That is, it is safe to assume that if you have lost 8 or fewer marks in the combined HW and quiz score, then your grade will not be adversely affected.
 ### Example?
 Sure. If two students (let's call them Student 1 and 2) have the same exam score of say 260/400 (which could be a C) and another with a score of 250/400 (which can be a C<sup>-</sup>). Now, let Student 1 and 3 have a quiz+HW score of 145/150, while Student 2 slacked off and got only 125/150. Then the recitation instructor adds up their scores. So,
 
