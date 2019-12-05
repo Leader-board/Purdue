@@ -4,6 +4,7 @@ This section contains the resources that I (and others) have created for MA261.
 
 **Note**:- Nothing in this section may be released to any third-party platform without my (or the original author's) explicit permission.
 
+**Looking for the common MA261 GroupMe chat?** It's [here](https://groupme.com/join_group/51941477/zYWuwo0S).
 ## Leaderboard's resources
 
 * **New:** [MA261 quizzes](https://github.com/Leader-board/Purdue/blob/master/MA261/Exam%20quizzes.md) - a new way to test yourself!
@@ -21,6 +22,7 @@ His guides contain useful analysis of exams from the last few years, and video w
 * [Exam 2 guide](https://docs.google.com/spreadsheets/d/1jHjlFyy_XB4RRmuFDVSVhQLYHxHkImhl_qz_QpIZkDI/edit?usp=sharing)
 * [Final exam guide](https://docs.google.com/spreadsheets/d/1IWeBIkCsnOdD7zD8d5uIZ5x5Sp0pGeWpZjinrPP7OtQ/edit#gid=0)
 * [His YouTube channel](https://www.youtube.com/channel/UCqM4avrjDiO7ji1Q2nn7vKQ)
+
 ## Other places
 
 Note that some of the resources below require a Purdue ID to access.
