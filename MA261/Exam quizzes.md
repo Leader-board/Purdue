@@ -13,7 +13,7 @@ The links below take you to different past papers packed up as a quiz. How many 
 
 Think you know everything? Or just want to be thrown random questions from anywhere and any topic? Then this is for you! Don't worry, you won't be expected to do every question in the set, and you'll get feedback on your response instanly.
 
-It's [here](https://quizizz.com/join?gc=374157)!
+It's [here](https://quizizz.com/join?gc=851064)!
 
 *Note: This link may change frequently as the database is updated.*
 
