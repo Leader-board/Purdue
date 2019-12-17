@@ -14,7 +14,7 @@ Now that the recitation 'basket' is done, then your quiz and homework scores are
 ## How does that matter in my final grade?
 It depends. Assuming a normal Gaussian distribution, it's unlikely (assuming that you've been doing your homework and have obtained a reasonable quiz score) that if you're doing well above average, that your grade will be impacted. This is because assuming a homework score of 100, the difference between your classmates' scores will be a few points at most. This goes the same way if you're well below average - doing well in quizzes will be unlikely to save you. 
 
-**However**, if you're around the median, this could impact your grade, as many of you will be bunched around the C to B region. So considering that many of you will get similar total exam scores, the quiz and HW can make or break a +/-. It must be noted however that this can only happen if and only if you get *less* than 42/50 in the quiz assuming a perfect homework score (as that is the only way someone with a weaker exam score can overtake you). That is, it is safe to assume that if you have lost 8 or fewer marks in the combined HW and quiz score, then your grade will not be adversely affected.
+**However**, if you're around the median, this could impact your grade, as many of you will be bunched around the C to B region. So considering that many of you will get similar total exam scores, the quiz and HW can make or break a +/-. It must be noted however that this can only happen (with some notable exceptions) if and only if you get *less* than 42/50 in the quiz assuming a perfect homework score (as that is the only way someone with a weaker exam score can overtake you). That is, it is safe to assume that if you have lost 8 or fewer marks in the combined HW and quiz score, then your grade will not be adversely affected.
 ### Example?
 Sure. If two students (let's call them Student 1 and 2) have the same exam score of say 260/400 (which could be a C) and another with a score of 250/400 (which can be a C<sup>-</sup>). Now, let Student 1 and 3 have a quiz+HW score of 145/150, while Student 2 slacked off and got only 125/150. Then the recitation instructor adds up their scores. So,
 
@@ -54,7 +54,7 @@ As said before, it depends on your recitation. However, thanks to a couple of TA
 
 *Credits to Ray Wu and Jake T for kindly providing them from the GroupMe chat*
 
-|Grade |Duo Cao | Junpyo Choi
+|Grade |Junpyo Choi | Duo Cao
 |--|--|--|
 | A+ | N/A |502
 | A | 463 |470
@@ -71,12 +71,34 @@ As said before, it depends on your recitation. However, thanks to a couple of TA
 Anyone below the minimum for a D gets a F. <br>
 What does this mean?
 * If you are in Duo Cao (not sure which section) or Choi's 10:30 am section, then you can determine your *actual* grade from that table.
-* If you're in **any other** recitation, then you can use this table to make a very good guess on what your final grade would be. In our case, Leaderboard has a 470, so he can safely, but nervously, say that he has an A. It depends on how 'hard' your recitation was in terms of quizzes. Remember though (again) that your grade CANNOT be adversely affected if you have lost 8 or fewer points in the sum of HW and quiz scores.
+* If you're in **any other** recitation, then you can use this table to make a very good guess on what your final grade would be. In our case, Leaderboard has a 470, so he can safely, but nervously, say that he has an A. It depends on how 'hard' your recitation was in terms of quizzes. Also see the exam-only cutoff below.
+
+### My exam score was X. What was the grade assigned to my name just based on that?
+
+*Credits to Matthew Graber*
+
+You can use this table to find your grade based only on your exams:
+
+|Grade |Cutoff (/400) | Percentage
+|--|--|--|
+| A+ | N/A |N/A
+| A | 323 |80.75
+| A- | 291 |73.75
+| B+ | 273 |68.25
+| B | 253 |63.25
+| B- | 236 |59
+| C+ | 217 |54.25
+| C | 194 |48.5
+| C- | 164 |41
+| D+ | 151 |37.75
+| D | 128 |32
+
+> I had said in the past that your grade cannot be adversely affected if you had lost 8 or less points in the sum of homeworks and quizzes. These cutoffs show that that's not fully true. The reason is that you could have received a score of 322 or 321 or 320 (out of 400) if you had 'bombed' the final and nothing else (that's because each final exam point is one more than each midterm exam point). If you are in that situation, hang on, as your quiz and homework scores would suddenly make a huge difference - the difference technically goes down to 1! Similarly, those wth 323 (like Leaderboard) or even 324 exam points cannot rest that quickly - depending on your situation, you might end up unlucky and drop a +/-.
 
 ### I'm only X points away from that cutoff. Will I get that higher grade?
 
-Technically not, as they only have a finite number of each grade to give out from the 'basket'. That being said, TAs could willing to round up your score, and also probably raise your grade if you are that close (say 1 - 3 points). I can't tell what your result would be, but Leaderboard hopes that you do!
+Technically not, as they only have a finite number of each grade to give out from the 'basket'. That being said, TAs could be willing to round up your score, and also probably raise your grade if you are that close (say 1 - 3 points). I can't tell what your result would be, but Leaderboard hopes that you get the better grade!
 
 ### I think I will get only a D+ or a D. Will I have to retake?
 
-Technically it depends. Most people will have to unfortunately. That's because while technically 'sufficient' for the purposes of getting credit, you will not be able to take MA265 or MA266 or take anything else that has Calc 3 as a pre-requisite (like CS 381), as you need a C- in that case. This includes most Engineering and all CS students. If you're in FYE, this may also cause issues with satisfying your academic requirements.
+Technically it depends. Most people will have to unfortunately. That's because while technically 'sufficient' for the purposes of getting credit, you will not be able to take MA265 or MA266 or take anything else that has Calc 3 as a pre-requisite (like CS 381), as you need a C- in that case. This includes most Engineering and nearly all CS students. If you're in FYE, this may also cause issues with satisfying your academic requirements.
