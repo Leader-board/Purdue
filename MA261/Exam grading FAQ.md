@@ -102,3 +102,9 @@ Technically not, as they only have a finite number of each grade to give out fro
 ### I think I will get only a D+ or a D. Will I have to retake?
 
 Technically it depends. Most people will have to unfortunately. That's because while technically 'sufficient' for the purposes of getting credit, you will not be able to take MA265 or MA266 or take anything else that has Calc 3 as a pre-requisite (like CS 381), as you need a C- in that case. This includes most Engineering and nearly all CS students. If you're in FYE, this may also cause issues with satisfying your academic requirements.
+
+### I've passed MA261! Will my next math course be like this in terms of grading?
+Well done! The answer depends on which course you're taking next.
+* If you're taking <u>MA262</u>, then both midterms and the final are course-wide, and hence the only thing controlled by your instructor are the homeworks (especially handwritten) and the quizzes. Hence you're still going to have a similar experience in general, for better of worse, though the percentage that's graded by your instructor is 16% and not 9% as in MA261, so there is a greater chance that it'll make a difference to your grade.
+* If you're taking <u>MA265</u> or <u>MA266</u>, then **only** the final is course-wide, with the midterms being instructor-dependent. This means that the percentage that can be instructor-graded becomes as high as 65% (or 45% in MA 266). This means that the homeworks and midterms can make a larger impact here, and it is no longer possible to determine your final grade solely from the course-wide final.
+* If you're taking a 300-level math course such as <u>MA 351</u> or <u>MA 366</u>, then nothing is course-wide (not even the final) and everything will be instructor-dependent.
