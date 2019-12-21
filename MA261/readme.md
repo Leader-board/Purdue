@@ -2,17 +2,19 @@
 
 This section contains the resources that I (and others) have created for MA261.
 
-**Note**:- Nothing in this section may be released to any third-party platform without my (or the original author's) explicit permission.
+**Note**:- Nothing in this section may be released to any third-party platform without my (or the original author's) explicit permission. An additional condition is that students currently enrolled on this course may not view homework solutions for a particular homework set until its due date is past.
 
-**Looking for the common MA261 GroupMe chat?** It's [here](https://groupme.com/join_group/51941477/zYWuwo0S).
+**Looking for group chats for your next math course (Spring 2020)?** You can find them here: [MA262](https://groupme.com/join_group/56335378/Zgl2jBdz) [MA265](https://groupme.com/join_group/56288444/3eliUwtO) [MA266](https://groupme.com/join_group/42935065/47H7Bgdw) [MA351](https://groupme.com/join_group/56252914/M9Kqk4Oh)
+
+> This resource was originally intended to help students who were taking this course in Fall 2019, as I was also taking the course at that time. That being said I have no plans to take this resource down, and students taking this course in Spring 2020 and beyond are welcome to use these resources. If anyone wants to contribute by adding more resources (i.e, solutions to more past papers), **please let me know** either on GroupMe or by [email](mailto:dmanoj@purdue.edu), and I can give you pull access.
 ## Leaderboard's resources
 
-* **New:** [MA261 quizzes](https://github.com/Leader-board/Purdue/blob/master/MA261/Exam%20quizzes.md) - a new way to test yourself!
+* [MA261 quizzes](https://github.com/Leader-board/Purdue/blob/master/MA261/Exam%20quizzes.md) - a new way to test yourself!
 * Solutions to many homework problems from Lesson 19 onwards
 * Written solutions to past exam papers (currently for Exam 2) from 2016
 * Solutions to this cohort's (Fall 2019) Exam 1 and 2 questions.
 * [PDF version of MA261's textbook](https://github.com/Leader-board/Miscellaneous/tree/master/Calculus%20Early%20Transcendentals)
-* [Exam 1, 2 and the MA261's GroupMe poll grade/mark distribution](https://purdue0-my.sharepoint.com/:x:/g/personal/dmanoj_purdue_edu/EaCprZiBJp1OmxthE7SNsxUBAj15XNt2LrYD5qy96oX7yg?e=JgkRRm)
+* [Exam 1, 2 and the MA261's GroupMe poll grade/mark distribution (Fall 2019)](https://purdue0-my.sharepoint.com/:x:/g/personal/dmanoj_purdue_edu/EaCprZiBJp1OmxthE7SNsxUBAj15XNt2LrYD5qy96oX7yg?e=JgkRRm)
 * [Exam grading FAQ](https://github.com/Leader-board/Purdue/blob/master/MA261/Exam%20grading%20FAQ.md)
 ## Liam Robinson's resources
 
