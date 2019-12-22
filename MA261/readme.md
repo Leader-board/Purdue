@@ -14,7 +14,7 @@ This section contains the resources that I (and others) have created for MA261.
 * Written solutions to past exam papers (currently for Exam 2) from 2016
 * Solutions to this cohort's (Fall 2019) Exam 1 and 2 questions.
 * [PDF version of MA261's textbook](https://github.com/Leader-board/Miscellaneous/tree/master/Calculus%20Early%20Transcendentals)
-* [Exam 1, 2 and the MA261's GroupMe poll grade/mark distribution (Fall 2019)](https://purdue0-my.sharepoint.com/:x:/g/personal/dmanoj_purdue_edu/EaCprZiBJp1OmxthE7SNsxUBAj15XNt2LrYD5qy96oX7yg?e=JgkRRm)
+* [MA261's Fall 2019 distrubtion and analysis](https://purdue0-my.sharepoint.com/:x:/g/personal/dmanoj_purdue_edu/EaCprZiBJp1OmxthE7SNsxUBAj15XNt2LrYD5qy96oX7yg?e=JgkRRm) - includes full exam distribution and advisory grades for Exam 1 and 2, GroupMe poll distribution and analysis for Exam 2, and final raw poll data)
 * [Exam grading FAQ](https://github.com/Leader-board/Purdue/blob/master/MA261/Exam%20grading%20FAQ.md)
 ## Liam Robinson's resources
 
