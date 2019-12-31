@@ -31,7 +31,7 @@ First, go to MyMathLab and click Gradebook:
 
 ![Opening Gradebook](..//assets/mymathlab1.png)
 
-Then you can find your total score by multiplying the final 'points earned' score by 5.5. Doing that, we see that Leaderboard has (85.27) * 5.5 = 469.8 points. Will he get an A? Let's hope he does.
+Then you can find your total score by multiplying the final 'points earned' score by 5.5. Doing that, we see that Leaderboard has (85.27) * 5.5 = 469.8 points. Will he get an A? Let's hope he does. (update: he did!)
 
 Below are my answers to some FAQs that I've seen:
 
