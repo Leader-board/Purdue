@@ -25,6 +25,7 @@ Student 3's total score: 250 + 145 = 395/550
 The recitation instructor now looks at their scores. He has two Cs and one C<sup>-</sup> to give out. Even though Student 3 did a bit poorer in the exams compared to Student 2, the fact that Student 3 did well on the homework and quizzes meant that he overall did better than Student 2, and hence gets the C. Student 2 is hence consigned to a C<sup>-</sup> (and rues themselves for not doing their homework).
 
 ## Part 2 - Getting your final grade
+> A lot of this information was originally written for the Fall 2019 information, and much of the cutoffs (unless other mentioned) is for that cohort. Again though, this should still be helpful for future semesters.
 
 I've added this section in response to several queries on the GroupMe chat. <br>
 First, go to MyMathLab and click Gradebook:
@@ -54,25 +55,24 @@ As said before, it depends on your recitation. However, thanks to a couple of TA
 
 *Credits to Ray Wu and Jake T for kindly providing them from the GroupMe chat*
 
-|Grade |Junpyo Choi | Duo Cao
-|--|--|--|
-| A+ | N/A |502
-| A | 463 |470
-| A- | 436 |439
-| B+ | 413 |421
-| B | 396 |397
-| B- | 377 |379
-| C+ | 361 |N/A
-| C | 343 |348
-| C- | 305 |310
-| D+ | 278 |278
-| D | 261 |263
+|Grade |Junpyo Choi | Duo Cao |[unknown Fall 2018](https://www.reddit.com/r/Purdue/comments/a69tga/ma_261_cutoffs_for_my_recitation_section/)|[unknown Fall(?) 2017](https://www.reddit.com/r/Purdue/comments/7k5cit/ma_261_grade/)
+|--|--|--|--|--|
+| A+ | N/A |502|522|495
+| A | 463 |470|485|458
+| A- | 436 |439|470|433
+| B+ | 413 |421|448|413
+| B | 396 |397|428|390
+| B- | 377 |379|407|374
+| C+ | 361 |N/A|389|356
+| C | 343 |348|363|335
+| C- | 305 |310|341|316
+| D+ | 278 |278|333|300
+| D | 261 |263|281|277
 
 Anyone below the minimum for a D gets a F. <br>
 What does this mean?
 * If you are in Duo Cao (not sure which section) or Choi's 10:30 am section, then you can determine your *actual* grade from that table.
 * If you're in **any other** recitation, then you can use this table to make a very good guess on what your final grade would be. In our case, Leaderboard has a 470, so he can safely, but nervously, say that he has an A. It depends on how 'hard' your recitation was in terms of quizzes. Also see the exam-only cutoff below.
-
 ### My exam score was X. What was the grade assigned to my name just based on that?
 
 *Credits to Matthew Graber*
@@ -81,7 +81,7 @@ You can use this table to find your grade based only on your exams:
 
 |Grade |Cutoff (/400) | Percentage
 |--|--|--|
-| A+ | N/A |N/A
+| A+ | 380 (?) |95
 | A | 323 |80.75
 | A- | 291 |73.75
 | B+ | 273 |68.25
