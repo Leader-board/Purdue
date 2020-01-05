@@ -2,20 +2,20 @@
 
 This section contains the resources that I (and others) have created for MA261.
 
-**Note**:- Nothing in this section may be released to any third-party platform without my (or the original author's) explicit permission. An additional condition is that students currently enrolled on this course may not view homework solutions for a particular homework set until its due date is past.
+**Note**:- Nothing in this section may be released to any third-party platform without my (or the original author's) explicit permission.
 
 **Looking for group chats for your next math course (Spring 2020)?** You can find them here: [MA262](https://groupme.com/join_group/56335378/Zgl2jBdz) [MA265](https://groupme.com/join_group/56288444/3eliUwtO) [MA266](https://groupme.com/join_group/42935065/47H7Bgdw) [MA351](https://groupme.com/join_group/56252914/M9Kqk4Oh)
 
-> This resource was originally intended to help students who were taking this course in Fall 2019, as I was also taking the course at that time. That being said I have no plans to take this resource down, and students taking this course in Spring 2020 and beyond are welcome to use these resources. If anyone wants to contribute by adding more resources (i.e, solutions to more past papers), **please let me know** either on GroupMe or by [email](mailto:dmanoj@purdue.edu), and I can give you pull access.
+> This resource was originally intended to help students who were taking this course in Fall 2019, as I was also taking the course at that time. That being said I have no plans to take this resource down, and students taking this course in Spring 2020 and beyond are welcome to use these resources. If anyone wants to contribute by adding more resources (i.e, solutions to more past papers), **please let me know** either on GroupMe or by [email](mailto:dmanoj@purdue.edu), and I can give you pull access. The same applies if you need any help with any part of the course - just email me.
 ## Leaderboard's resources
 
-* [MA261 quizzes](https://github.com/Leader-board/Purdue/blob/master/MA261/Exam%20quizzes.md) - a new way to test yourself!
-* Solutions to many homework problems from Lesson 19 onwards
-* Written solutions to past exam papers (currently for Exam 2) from 2016
-* Solutions to this cohort's (Fall 2019) Exam 1 and 2 questions.
+* [MA261 quizzes](https://github.com/Leader-board/Purdue/blob/master/MA261/Exam%20quizzes.md) - a new way to test yourself for the final.
+* Solutions to many homework problems from Lesson 19 onwards.
+* Written solutions to past exam papers for Exam 2 and the final from 2016, and for every question in the offical practice guide.
+* Full written solutions with explanations to Fall 2019 Exam 1 and 2.
 * [PDF version of MA261's textbook](https://github.com/Leader-board/Miscellaneous/tree/master/Calculus%20Early%20Transcendentals)
-* [MA261's Fall 2019 distrubtion and analysis](https://purdue0-my.sharepoint.com/:x:/g/personal/dmanoj_purdue_edu/EaCprZiBJp1OmxthE7SNsxUBAj15XNt2LrYD5qy96oX7yg?e=JgkRRm) - includes full exam distribution and advisory grades for Exam 1 and 2, GroupMe poll distribution and analysis for Exam 2, and final raw poll data)
-* [Exam grading FAQ](https://github.com/Leader-board/Purdue/blob/master/MA261/Exam%20grading%20FAQ.md)
+* [MA261's Fall 2019 distrubtion and analysis](https://purdue0-my.sharepoint.com/:x:/g/personal/dmanoj_purdue_edu/EaCprZiBJp1OmxthE7SNsxUBAj15XNt2LrYD5qy96oX7yg?e=JgkRRm) - includes full exam distribution and advisory grades for Exam 1 and 2, GroupMe poll distribution and analysis for Exam 2, and final raw poll data
+* [Exam grading FAQ](https://github.com/Leader-board/Purdue/blob/master/MA261/Exam%20grading%20FAQ.md) - with full final cut-off data for Fall 2019
 ## Liam Robinson's resources
 
 His guides contain useful analysis of exams from the last few years, and video walkthroughs for many of them.
