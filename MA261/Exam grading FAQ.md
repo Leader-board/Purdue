@@ -101,7 +101,9 @@ Technically not, as they only have a finite number of each grade to give out fro
 
 ### I think I will get only a D+ or a D. Will I have to retake?
 
-Technically it depends. Most people will have to unfortunately. That's because while technically 'sufficient' for the purposes of getting credit, you will not be able to take MA265 or MA266 or take anything else that has Calc 3 as a pre-requisite (like CS 381), as you need a C- in that case. This includes nearly all Engineering and CS students. If you're in FYE, this may also cause issues with satisfying your academic requirements.
+Technically it depends. Most people will have to unfortunately. That's because while technically 'sufficient' for the purposes of getting credit, you will not be able to take MA265 or MA266 or take anything else that has Calc 3 as a pre-requisite , as you need a C- in that case. This includes nearly all Engineering and CS students. If you're in FYE, this may also cause issues with satisfying your academic requirements.
+
+**If you have a C-**: Some courses like CS381 (which is required in some tracks and a very useful course overall) require you to have a C in MA261. C- would not satisfy the requirements in this case. However, you can still take MA265, but bewarned that you cannot go back and retake MA261 should you decide you want to take CS381 later.
 
 ### I've passed MA261! Will my next math course be like this in terms of grading?
 Well done! The answer depends on which course you're taking next.
