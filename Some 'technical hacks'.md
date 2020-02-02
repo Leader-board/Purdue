@@ -16,7 +16,7 @@ Note that this does not give access to other parts of Purdue's sites (like myPur
 
 ## 2. 'Free' printing
 
-If you don't want to use your free $40 allowance while printing, one option is to find a departmental printer that is not locked down. One of such printers lies in the Keedy lab in the Math building (6<sup>th</sup> and 7<sup>th</sup> floors), which also contain a couple of PCs that can be used (note that only Windows machines can be used; Linux only works if you're a Math grad student/faculty). You can use these computers or alternatively print from your own machine by following the instructions [here](https://www.purdue.edu/science/scienceit/Printing.html). Just don't abuse the printers.
+If you don't want to use your free $40 allowance while printing, one option is to find a departmental printer that is not locked down. One of such printers lies in the Keedy lab in the Math building (6<sup>th</sup> and 7<sup>th</sup> floors), which also contain a couple of PCs that can be used (note that only Windows machines can be used; Linux only works if you're a Math grad student/faculty). You can use these computers or alternatively print from your own machine by following the instructions [here](https://www.purdue.edu/science/scienceit/Printing.html). Alternatively, if you are a CS student, the Lawson and HAAS printers are free for students. Just don't abuse the printers.
 
 ## 3. Administrator access on university machines
 
