@@ -24,9 +24,11 @@ Most ITaP machines come with *standard* permissions for each user. While this is
 
 The only computers which are configured to allow adminstrative permissions are the ones on Lawson (CS) and Beering (College of Education; third floor), which could be very useful if you want to play games or install your own programs. Note that in any case, the programs that you install will be removed once you log out.
 
-## 4. VPN through SSH tunneling
-
-This is a fairly advanced method of getting a VPN. Note that while the standard ITaP method works just fine, this method has some advantages:
+## 4. VPN without Cisco
+### Using the built-in OS option
+It is possible to configure Windows and Mac so that you can use the VPN without having to use Cisco's tool. This is helpful since it's very straightforward to enable and disable the VPN this way, and it is also seamless. See https://engineering.purdue.edu/ECN/Support/KB/Docs/ITaPVPNManualSetupvia.
+### SSH tunnling
+As an alternative, this is a fairly advanced method of getting a VPN. Note that while the standard ITaP method works just fine, this method has some advantages:
 
 * It can be significantly faster
 * No third-party applications required
