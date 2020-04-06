@@ -2,7 +2,7 @@
 
 This section contains the resources that I (and others) have created for MA261.
 
-**Note**:- Nothing in this section may be released to any third-party platform without my (or the original author's) explicit permission.
+**Note**:- Nothing in this section may be released to any third-party platform without my (or the original author's) explicit permission. Also if you cheat in the midterm, well, you're cheating yourself. No one but yourself is responsible for what you do.
 
 **Looking for group chats for your next math course (Spring 2020)?** You can find them here: [MA262](https://groupme.com/join_group/56335378/Zgl2jBdz) [MA265](https://groupme.com/join_group/56288444/3eliUwtO) [MA266](https://groupme.com/join_group/42935065/47H7Bgdw) [MA351](https://groupme.com/join_group/56252914/M9Kqk4Oh)
 
