@@ -1,6 +1,9 @@
 # Exam grading FAQ
 There seems to be quite a bit of confusion on how the core Purdue calculus courses (Calc 1-3) are graded. Here I try to explain how exactly it works.
 This is for Calculus 3 (MA261), but the ideas are the same for many others (like Calc 1/2).
+
+>> **For the Spring 2020 cohort only**: It seems that Purdue is offering a guaranteed curve of 85%/75%/60%/50% for A-/B-/C-/D-, and this is your *total* score - including HW, quizzes etc. This means that you will be sure of getting that grade if you can hit that minimum score, irrespective of other factors. This does not preclude the curve being more generous than this.
+
 ## Step 1 - The exams
 The process starts with the exams. In Calculus 3, there are two midterms (each out of 100) and a final (out of 200), for a total mark out of 400. This is the *only* metric used for the initial ranking process.
 The instructors first determine the mark cutoff for each grade (eg: 335/400 for an A). Then, they rank all the people based on *only* their combined exam scores.<br>For Calculus 3, out of the ~2400 students, roughly 20-23% people (around 500 - 550 students) will get an A - some of them with an A<sup>+</sup>, and some with an A<sup>-</sup>.
