@@ -2,6 +2,12 @@
 
 This short guide will tell you how to use Outlook's Rules feature to automatically redirect such emails into junk emails or simply delete them.
 
+## "Cool cash"?
+
+Yeah, apparently many users' email accounts get hacked and the only thing they send from those accounts are cool cash emails, where they promise students of an easy-looking job that would look quite appaeling for them. It sounds too good to be true, and it is, though I don't know what happens if you fall for it.
+
+And why does Purdue's spam handling system (aka Cisco) not work? Because the filter automatically ignores Purdue email addresses, which is where this junk gets sent from (of course without that user's knowledge).
+
 ## If you're using Outlook (desktop)
 
 Firstly, go to Outlook and looks for the *Rules* option (in Home). Click on "Create Rule" and select Advanced Options. Then click the "with specific words in the body" option, add relevant phrases like "cool cash", "personal assistant" or anything else you see fit. 
