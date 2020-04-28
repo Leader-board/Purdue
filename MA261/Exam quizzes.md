@@ -1,7 +1,7 @@
 # Exam quizzes
 
 This section contains the links that you can use to play MA261 quizzes! 
-> Note: Up to the end of the finals for the Spring 2020 cohort, login will be required; this is to encourage good attempts. 3 attempts are enabled by default. I apologise for any inconvenience this may cause. 
+> Note: Up to the end of the finals for the Spring 2020 cohort, login will be required; this is to encourage good attempts and discourage excessively awkward usernames (note that you can still use a custom username). 3 attempts are enabled by default. I apologise for any inconvenience this may cause. 
 
 ## Past exams
 
