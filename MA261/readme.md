@@ -2,11 +2,8 @@
 
 This section contains the resources that I (and others) have created for MA261.
 
-**Note**:- Nothing in this section may be released to any third-party platform without my (or the original author's) explicit permission. Also if you cheat in the midterm, well, you're cheating yourself. No one but yourself is responsible for what you do.
+> This resource was originally intended to help students who were taking this course in Fall 2019, as I was also taking the course at that time. That being said I have no plans to take this resource down, and students taking this course in Fall 2020 and beyond are welcome to use these resources. If anyone wants to contribute by adding more resources (i.e, solutions to more past papers), **please let me know** either on GroupMe or by [email](mailto:dm282@st-andrews.ac.uk), and I can give you pull access. The same applies if you need any help with any part of the course - just email me.
 
-**Looking for group chats for your next math course (Spring 2020)?** You can find them here: [MA262](https://groupme.com/join_group/56335378/Zgl2jBdz) [MA265](https://groupme.com/join_group/56288444/3eliUwtO) [MA266](https://groupme.com/join_group/42935065/47H7Bgdw) [MA351](https://groupme.com/join_group/56252914/M9Kqk4Oh)
-
-> This resource was originally intended to help students who were taking this course in Fall 2019, as I was also taking the course at that time. That being said I have no plans to take this resource down, and students taking this course in Spring 2020 and beyond are welcome to use these resources. If anyone wants to contribute by adding more resources (i.e, solutions to more past papers), **please let me know** either on GroupMe or by [email](mailto:dmanoj@purdue.edu), and I can give you pull access. The same applies if you need any help with any part of the course - just email me.
 ## Leaderboard's resources
 
 * [MA261 quizzes](https://github.com/Leader-board/Purdue/blob/master/MA261/Exam%20quizzes.md) - a new way to test yourself for the final.
