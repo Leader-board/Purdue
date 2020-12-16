@@ -2,7 +2,7 @@
 There seems to be quite a bit of confusion on how the core Purdue calculus courses (Calc 1-3) are graded. Here I try to explain how exactly it works.
 This is for Calculus 3 (MA261), but the ideas are the same for many others (like Calc 1/2).
 
-> **For the Spring 2020 cohort only**: It seems that Purdue is offering a guaranteed curve of 85%/75%/60%/50% for A-/B-/C-/D-, and this is your *total* score - including HW, quizzes etc. This means that you will be sure of getting that grade if you can hit that minimum score, irrespective of other factors, and the case of you losing a grade because someone else beat you in recitation cannot happen. This does not preclude the curve being more generous than this.
+> **For the Spring 2020 onwards**: It seems that Purdue is offering a guaranteed curve of 85%/75%/60%/50% for A-/B-/C-/D-, and this is your *total* score - including HW, quizzes etc. This means that you will be sure of getting that grade if you can hit that minimum score, irrespective of other factors, and the case of you losing a grade because someone else beat you in recitation cannot happen. This does not preclude the curve being more generous than this, and means that Step 2 of the guide does not apply; rather, the quiz grade is directly added as usual.
 
 ## Step 1 - The exams
 The process starts with the exams. In Calculus 3, there are two midterms (each out of 100) and a final (out of 200), for a total mark out of 400. This is the *only* metric used for the initial ranking process.
@@ -54,8 +54,25 @@ Divide the points that you got in that section with the category weighing, and m
 In Leaderboard's case, he got 18/18 (100/100) in the HW, and 8.27/9 (45.95/50) in the quiz.
 ### I got score X. What's my grade?
 
-As said before, it depends on your recitation. However, thanks to a couple of TAs who have kindly provided their grading cutoffs, we can make a very good estimate on what grade you could get.
+> Fall 2020 data [source](https://www.reddit.com/r/Purdue/comments/kdc0p8/how_you_all_feel_about_ma_261_curve/). Grading policies are somewhat different this time, in particular the quizzes are course-wide, and hence recitation-based variances do not apply.
+|Grade|Percentage
+|--|
+| A+ | 95
+| A | 90
+| A- | 87
+| B+ | 84
+| B | 80
+| B- | 77
+| C+ | 74
+| C | 69
+| C- | 65
+| D+ | 60
+| D | 55
 
+
+> The below is Fall 2019 (and before) data and is provided as an archive.
+
+As said before, it depends on your recitation. However, thanks to a couple of TAs who have kindly provided their grading cutoffs, we can make a very good estimate on what grade you could get.
 *Credits to Ray Wu and Jake T for kindly providing them from the GroupMe chat*
 
 |Grade |Junpyo Choi | Duo Cao |[unknown Fall 2018](https://www.reddit.com/r/Purdue/comments/a69tga/ma_261_cutoffs_for_my_recitation_section/)|[unknown Fall(?) 2017](https://www.reddit.com/r/Purdue/comments/7k5cit/ma_261_grade/)
