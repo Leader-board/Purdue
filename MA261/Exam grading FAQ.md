@@ -2,23 +2,29 @@
 There seems to be quite a bit of confusion on how the core Purdue calculus courses (Calc 1-3) are graded. Here I try to explain how exactly it works.
 This is for Calculus 3 (MA261), but the ideas are the same for many others (like Calc 1/2).
 
-> **For the Spring 2020 onwards**: It seems that Purdue is offering a guaranteed curve of 85%/75%/60%/50% for A-/B-/C-/D-, and this is your *total* score - including HW, quizzes etc. This means that you will be sure of getting that grade if you can hit that minimum score, irrespective of other factors, and the case of you losing a grade because someone else beat you in recitation cannot happen. This does not preclude the curve being more generous than this, and means that Step 2 of the guide does not apply; rather, the quiz grade is directly added as usual.
+## For Spring 2020 onwards
+
+Here, your grade is computed by adding all components: exam, quizzes and HW, and then the cutoff is centrally determined. This is much like any other course that you'll have experienced.
+
+Purdue is offering a guaranteed curve, and this is your *total* score - including HW, quizzes etc. This means that you will be sure of getting that grade if you can hit that minimum score, irrespective of other factors, and the case of you losing a grade because someone else beat you in recitation cannot happen. This does not preclude the curve being more generous than this,
 
 ## Step 1 - The exams
 The process starts with the exams. In Calculus 3, there are two midterms (each out of 100) and a final (out of 200), for a total mark out of 400. This is the *only* metric used for the initial ranking process.
 The instructors first determine the mark cutoff for each grade (eg: 335/400 for an A). Then, they rank all the people based on *only* their combined exam scores.<br>For Calculus 3, out of the ~2400 students, roughly 20-23% people (around 500 - 550 students) will get an A - some of them with an A<sup>+</sup>, and some with an A<sup>-</sup>.
-## Step 2 - The recitation
+
+## Step 2 - The recitation (Before Spring 2020)
 Now the grade cutoffs have been determined and a 'grade' has been attached to your name *just based on your exams*. Then your recitation instructor will look at their students, and take your exam-only grade, and add it into a 'basket'. 
 
 As an example, for a recitation of 30 students, assume that 7 students have an A, 7 have a B, 7 have a C, 7 have a D and the remaining poor two students have an F. So the recitation 'basket' contains seven As, seven Bs, and so on.
-## Step 3 - Getting your final grade
+## Step 3 - Getting your final grade (Before Spring 2020)
 
 Now that the recitation 'basket' is done, then your quiz and homework scores are added, and then all students in that recitation will be re-ranked, this time with your **entire** score (out of 550). Then, he'll take the grades from the 'basket'. This means that while they (should!) love all of you and would like to give all their students As if they could, their 'basket' contains only a finite number of As (in this example 7) and hence can only give that many students that grade.
 ## How does that matter in my final grade?
 It depends. Assuming a normal Gaussian distribution, it's unlikely (assuming that you've been doing your homework and have obtained a reasonable quiz score) that if you're doing well above average, that your grade will be impacted. This is because assuming a homework score of 100, the difference between your classmates' scores will be a few points at most. This goes the same way if you're well below average - doing well in quizzes will be unlikely to save you. 
 
 **However**, if you're around the median, this could impact your grade, as many of you will be bunched around the C to B region. So considering that many of you will get similar total exam scores, the quiz and HW can make or break a +/-. A even tougher scenario is if you're in the A-/A (or any two grades') border (which is possible due to the cutoffs this year) - one point can literally decide between A and A-. Yikes.
-### Example?
+### Example? (Before Spring 2020)
+
 Sure. If two students (let's call them Student 1 and 2) have the same exam score of say 260/400 (which could be a C) and another with a score of 250/400 (which can be a C<sup>-</sup>). Now, let Student 1 and 3 have a quiz+HW score of 145/150, while Student 2 slacked off and got only 125/150. Then the recitation instructor adds up their scores. So,
 
 Student 1's total score: 260 + 145 = 405/550 <br>
@@ -54,9 +60,10 @@ Divide the points that you got in that section with the category weighing, and m
 In Leaderboard's case, he got 18/18 (100/100) in the HW, and 8.27/9 (45.95/50) in the quiz.
 ### I got score X. What's my grade?
 
-> Fall 2020 data [source](https://www.reddit.com/r/Purdue/comments/kdc0p8/how_you_all_feel_about_ma_261_curve/). Grading policies are somewhat different this time, in particular the quizzes are course-wide, and hence recitation-based variances do not apply.
+> Fall 2020 data ([source](https://www.reddit.com/r/Purdue/comments/kdc0p8/how_you_all_feel_about_ma_261_curve/)). Grading policies are somewhat different this time, in particular the quizzes are course-wide, and hence recitation-based variances do not apply.
+
 |Grade|Percentage
-|--|
+|--|--|
 | A+ | 95
 | A | 90
 | A- | 87
@@ -70,7 +77,7 @@ In Leaderboard's case, he got 18/18 (100/100) in the HW, and 8.27/9 (45.95/50) i
 | D | 55
 
 
-> The below is Fall 2019 (and before) data and is provided as an archive.
+> The below is Fall 2019 (and before) and is provided as an archive.
 
 As said before, it depends on your recitation. However, thanks to a couple of TAs who have kindly provided their grading cutoffs, we can make a very good estimate on what grade you could get.
 *Credits to Ray Wu and Jake T for kindly providing them from the GroupMe chat*
