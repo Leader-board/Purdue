@@ -21,7 +21,7 @@ Firstly, go to Outlook and looks for the *Rules* option (in Home). Click on "Cre
 
 Then select the action you want, which can simply involve moving to a specific folder (like Spam, Junk or simply one of your own kind), or delete it. Remember that your filter could have the odd false positive (who knows?), so don't delete unless you really want to.
 
-Then Outlook will ask whether you want to configure any exceptions. There shouldn't be any (unfortunately you're not getting real cash from any of them...)
+Then Outlook will ask whether you want to configure any exceptions. There shouldn't be any (unfortunately you're not getting real cash or free pianos from any of them...)
 
 ## If you're on the web
 
