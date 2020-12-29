@@ -7,6 +7,8 @@ This guide is also applicable to the influx of "piano emails" that go like this:
 > I'm downsizing and looking to give away my late husband’s piano to a loving home. The piano is a 2014 Yamaha baby grand. <br>
 I will not be checking this email often you can text me to indicate your interest on my private phone number ( 802 378 4554 ) to arrange inspection and delivery with a moving company 
 
+**Edit:** falling into the piano scam can cause issues: see [this incident](http://www.ceomta.org/free-piano-scam).
+
 ## "Cool cash"?
 
 Yeah, apparently many users' email accounts get hacked and the only thing they send from those accounts are cool cash emails, where they promise students of an easy-looking job that would look quite appaeling for them. It sounds too good to be true, and it is, though I don't know what happens if you fall for it.
