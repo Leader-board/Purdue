@@ -7,7 +7,9 @@ This guide is also applicable to the influx of "piano emails" that go like this:
 > I'm downsizing and looking to give away my late husband’s piano to a loving home. The piano is a 2014 Yamaha baby grand. <br>
 I will not be checking this email often you can text me to indicate your interest on my private phone number ( 802 378 4554 ) to arrange inspection and delivery with a moving company 
 
-**Edit:** falling into the piano scam can cause issues: see [this incident](http://www.ceomta.org/free-piano-scam).
+**Edit:** falling into the piano scam can cause issues: see [this incident](http://www.ceomta.org/free-piano-scam). Quoting that website,
+
+>I wanted CEOMTA to be aware of a recent iteration of the “free” piano scam. One of our members received an unsolicited email from someone claiming to be an elderly woman who was downsizing and looking to give away her late husband’s piano to a loving home. The piano was a Yamaha baby grand and the email came from a legitimate sounding Gmail account and included several pictures. The teacher did have an interested student, so the student made contact and arranged the delivery with a moving company they were referred to. However, the moving company was a fake. Although they sent a convincing invoice that included details like the size and weight of the piano, the parents realized after payment that the invoice had a different name than the company they were originally referred to. After being contacted again regarding the discrepancy, the moving company immediately took down their website and the family were unable to get back the money they had already sent. The original email said that she got the teacher’s name from a friend in her piano teacher’s association, so please be careful if you are contacted with a similar sounding situation.
 
 ## "Cool cash"?
 
