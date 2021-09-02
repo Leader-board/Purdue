@@ -1,6 +1,6 @@
 ## Most popular first names
 
-With at least 35 occurrences. 620 names in the list.
+With at least 35 occurrences. 619 names in the list.
 
 | First names | Count   of FirstName |
 |-------------|----------------------|
