@@ -2,7 +2,7 @@
 
 This section contains the resources that I (and others) have created for MA261. Please note that reproduction of these resources into third-party sites is not allowed without the permission of myself or the author.
 
-> This resource was originally intended to help students who were taking this course in Fall 2019, as I was also taking the course at that time. That being said I have no plans to take this resource down, and students taking this course in Fall 2020 and beyond are welcome to use these resources. If anyone wants to contribute by adding more resources (i.e, solutions to more past papers), **please let me know** either on GroupMe or by [email](mailto:dm282@st-andrews.ac.uk), and I can give you pull access. The same applies if you need any help with any part of the course - just email me.
+> This resource was originally intended to help students who were taking this course in Fall 2019, as I was also taking the course at that time. That being said I have no plans to take this resource down, and students taking this course in Fall 2020 and beyond are welcome to use these resources. If anyone wants to contribute by adding more resources (i.e, solutions to more past papers), **please let me know** either on GroupMe or by [email](mailto:leader-board@outlook.com), and I can give you pull access. The same applies if you need any help with any part of the course - just email me.
 
 ## Leaderboard's resources
 
